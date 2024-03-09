@@ -1,0 +1,15 @@
+#hero1{
+    background-image: url(buiding.jpg);
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:  center;
+}
+header{
+    z-index: 20;
+}
+
+#br-tex{
+    background-color: rgba(0, 0, 0, 0.83);
+}
+
